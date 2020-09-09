@@ -1,3 +1,20 @@
+.idk {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.poster {
+  border-radius: 8px;
+}
+.overview {
+  text-align: justify;
+  text-justify: inter-word;
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+.myButton {
+  width: 100px;
+}
 .titleBar {
   background-color: #000;
   display: block;
