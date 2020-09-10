@@ -1,3 +1,10 @@
+body {
+  background: black;
+}
+.line {
+  border: 3px solid rgb(246, 246, 246);
+  border-radius: 5px;
+}
 .idk {
   display: block;
   margin-left: auto;
@@ -5,15 +12,29 @@
   width: 50%;
 }
 .poster {
+  margin-left: 300px;
   border-radius: 8px;
 }
+.title {
+  margin-left: 310px;
+  color: white;
+}
 .overview {
+  line-height: 1.3;
+  letter-spacing: 3px;
+  color: white;
   text-align: justify;
   text-justify: inter-word;
   font-family: "Trebuchet MS", Verdana, sans-serif;
+  margin-right: 200px;
+  margin-left: 150px;
 }
 .myButton {
-  width: 100px;
+  width: 150px;
+  background-color: rgb(110, 152, 192);
+  color: black;
+  border-radius: 2px;
+  margin-left: 350px;
 }
 .titleBar {
   background-color: #000;
